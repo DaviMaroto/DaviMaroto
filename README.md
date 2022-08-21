@@ -10,7 +10,7 @@
   <img align="center" alt="Davi-angular"height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
  <img align="center" alt="Davi-Ts"height="30" width="40"src="<src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-          " />
+         
 </div>
 
 ### How to contact: 📩  
