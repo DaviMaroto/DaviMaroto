@@ -9,6 +9,9 @@
   <img align="center" alt="Davi-js"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Davi-angular"height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
+ <img align="center" alt="Davi-angular"height="30" width="40"src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+          " />
+</div>
 
 ### How to contact: 📩  
 <div>
