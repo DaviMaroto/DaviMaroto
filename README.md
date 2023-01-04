@@ -1,7 +1,7 @@
 ### Hi there,My name is Davi Maroto!👋
 
-- 🌱 I’m currently learning frontend,Html5,Css3,JavaScript and reactjs,always keen to acquire  new knowledge and experiences
-- 🏡 I’m looking to collaborate in an organization,an internship or junior developer opportunity, where I can demonstrate my knowledge in real projects
+- 🌱 I’m currently learning frontend, Html5, Css3, JavaScript and reactjs, always keen to acquire  new knowledge and experiences
+- 🏡 I am currently an intern in web development at optme conversion marketing
 
 <div>
   <img align="center" alt="Davi-Html"height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
