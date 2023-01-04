@@ -1,6 +1,6 @@
 ### Hi there,My name is Davi Maroto!👋
 
-- 🌱 I’m currently learning frontend,Html5,Css3,JavaScript and Angular,always keen to acquire  new knowledge and experiences
+- 🌱 I’m currently learning frontend,Html5,Css3,JavaScript and reactjs,always keen to acquire  new knowledge and experiences
 - 🏡 I’m looking to collaborate in an organization,an internship or junior developer opportunity, where I can demonstrate my knowledge in real projects
 
 <div>
