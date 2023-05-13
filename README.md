@@ -1,13 +1,29 @@
-### Hi there,My name is Davi Maroto!👋
+<img align="right" height="590em"
+src="https://raw.githubusercontent.com/gist/DaviMaroto/ccef07ac7c486bb1187f39547e47d33f/raw/e7dacbba5b41d47f9ee8b065bf29e5baa6540a48/githubcard.svg"/>
+
+
 
 - 🌱 I’m currently learning frontend, Html5, Css3, JavaScript and reactjs, always keen to acquire  new knowledge and experiences
-- 🏡 I am currently an intern in web development at optme marketing de conversão
 
-<div>
-  <img align="center" alt="Davi-Html"height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Davi-Css"height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Davi-js"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Davi-react"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Davi-Ts"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>   
-  <img align="center" alt="Davi-php"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
-</div>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Davi Maroto 👋</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DaviMaroto&color=yellow" alt="Profile views" /> </p>
+
+- 🔥 Junior Web Developer with a focus on front-end development 
+
+- 🔭 I’m currently working an intern in web development at optme marketing de conversão
+
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
+
+<br><br>
+
+## Contact
+
+<a href="https://www.linkedin.com/in/davimaroto/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-davimaroto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/davi_maroto15/">
+ <img align="center" src="https://img.shields.io/badge/-davimaroto-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
