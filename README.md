@@ -1,10 +1,6 @@
 <img align="right" height="590em"
 src="https://raw.githubusercontent.com/gist/DaviMaroto/ccef07ac7c486bb1187f39547e47d33f/raw/e7dacbba5b41d47f9ee8b065bf29e5baa6540a48/githubcard.svg"/>
 
-
-
-- 🌱 I’m currently learning frontend, Html5, Css3, JavaScript and reactjs, always keen to acquire  new knowledge and experiences
-
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Davi Maroto 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaviMaroto&color=yellow" alt="Profile views" /> </p>
