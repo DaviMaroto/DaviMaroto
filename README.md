@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/gist/DaviMaroto/ccef07ac7c486bb1187f39547
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaviMaroto&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer with a focus on front-end development 
+- 🔥 I'm web developer with a focus on front-end development 
 
 - 🔭 I’m currently working an intern in web development at optme marketing de conversão
 
