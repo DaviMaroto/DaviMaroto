@@ -5,10 +5,10 @@ src="https://raw.githubusercontent.com/gist/DaviMaroto/ccef07ac7c486bb1187f39547
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaviMaroto&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I'm web developer with a focus on front-end development 
-
-- 💬 😳  Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
-
+- 🔥 Eu sou desenvolvedor Web Front-end
+- 📚 Graduado em Ciência da Computação
+- 💬 Me pergunte sobre: **JavaScript, HTML, CSS, SASS SQL, Node.JS, React.JS**
+  
 <br><br>
 
 ## Contact
