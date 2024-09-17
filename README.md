@@ -7,8 +7,6 @@ src="https://raw.githubusercontent.com/gist/DaviMaroto/ccef07ac7c486bb1187f39547
 
 - 🔥 I'm web developer with a focus on front-end development 
 
-- 🔭 I’m currently working an intern in web development at optme marketing de conversão
-
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
 
 <br><br>
