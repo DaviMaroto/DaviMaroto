@@ -4,7 +4,7 @@
 
 - 🔥 Eu sou desenvolvedor Web Front-end
 - 📚 Graduado em Ciência da Computação
-- 💬 Me pergunte sobre: **JavaScript, HTML, CSS, SASS SQL, Node.JS, React.JS**
+- 💬 Me pergunte sobre: **JavaScript, HTML, CSS, SASS SQL, Node.JS, React.JS, TypeScript**
   
 <br><br>
 
