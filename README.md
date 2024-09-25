@@ -16,8 +16,5 @@
 <a href="https://www.instagram.com/davi_maroto15/">
  <img align="center" src="https://img.shields.io/badge/-davimaroto-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="davimaroto09@gmail.com/">
- <img align="center" src="https://img.shields.io/badge/-davimaroto-05122A?style=flat&logo=gmail" alt="email"/>
-</a>
 </p>
 
