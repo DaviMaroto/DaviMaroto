@@ -13,5 +13,5 @@
 <a href="https://www.linkedin.com/in/davimaroto/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-davimaroto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-</p>
+
 
