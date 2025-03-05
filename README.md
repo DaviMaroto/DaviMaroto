@@ -5,8 +5,13 @@
 - 🔥 Eu sou desenvolvedor Web Front-end
 - 📚 Graduado em Ciência da Computação
 - 💬 Me pergunte sobre: **JavaScript, HTML, CSS, SASS SQL, Node.JS, React.JS, TypeScript**
-  
-<br><br>
+
+### 🚀 Tecnologias que atuo
+
+| React | JavaScript |
+|------|------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> |
+
 
 ## Contato
 
