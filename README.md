@@ -2,8 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaviMaroto&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Eu sou desenvolvedor Front-end
+- 💻 Sou um Desenvolvedor Front-end com paixão por tecnologias inovadoras e arquitetura de software distribuído. Sempre em busca de soluções eficientes e escaláveis, tenho experiência em administração de redes, desenvolvimento de software e ensino de informática.
 - 📚 Graduado em Ciência da Computação
+- 📝 Além do desenvolvimento, também tenho interesse em pesquisa acadêmica na área de Engenharia de Software Distribuído, explorando padrões, frameworks e ferramentas que auxiliam na evolução arquitetural dos sistemas.
 
 ### 🚀 Tecnologias que atuo
 <div style="display: flex; ">
