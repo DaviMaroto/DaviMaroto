@@ -2,10 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaviMaroto&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Eu sou desenvolvedor Web Front-end
+- 🔥 Eu sou desenvolvedor Front-end
 - 📚 Graduado em Ciência da Computação
-- 💬 Me pergunte sobre: **JavaScript, HTML, CSS, SASS SQL, Node.JS, React.JS, TypeScript**
-
 
 ### 🚀 Tecnologias que atuo
 <div style="display: flex; ">
@@ -18,10 +16,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
 </div>
 
-## Contato
+### 🌎 Contato
 
-<a href="https://www.linkedin.com/in/davimaroto/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-davimaroto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davimaroto/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviMaroto)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davimaroto09@gmail.com)
